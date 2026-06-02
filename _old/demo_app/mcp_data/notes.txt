@@ -1,0 +1,5 @@
+Quarterly numbers (demo data):
+- Q1: 14,200
+- Q2: 16,800
+- Q3: 19,400
+- Q4: 22,100
