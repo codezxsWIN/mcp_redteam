@@ -1,0 +1,28 @@
+.venv/
+.vscode/
+.mcp-scan-sandbox/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+reports/
+.env
+.DS_Store
+dist/
+build/
+*.egg-info/
+.coverage
+htmlcov/
+
+# scan artifacts
+findings.json
+*-findings.json
+report.md
+report.html
+*-report.md
+*-report.html
+
+# personal planning notes (not for publication)
+IDEAS.md
