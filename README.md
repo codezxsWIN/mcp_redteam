@@ -2,6 +2,11 @@
 
 **Runtime red-team testing for Model Context Protocol (MCP) servers.**
 
+[![CI](https://github.com/codezxsWIN/mcp-redteam/actions/workflows/ci.yml/badge.svg)](https://github.com/codezxsWIN/mcp-redteam/actions/workflows/ci.yml)
+[![Python](https://img.shields.io/badge/python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Latest release](https://img.shields.io/github/v/release/codezxsWIN/mcp-redteam?display_name=tag&sort=semver)](https://github.com/codezxsWIN/mcp-redteam/releases)
+
 `mcp-redteam` connects to a running MCP server, exercises it with a curated
 attack-payload library, and produces evidence you can act on: request/response
 transcripts, severity, and reproduction steps for every finding.
